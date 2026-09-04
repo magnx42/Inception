@@ -137,4 +137,4 @@ make
   · [MariaDB](https://mariadb.com/kb/en/documentation/) · [WP-CLI](https://developer.wordpress.org/cli/commands/)
   · [openssl req](https://docs.openssl.org/master/man1/openssl-req/)
 
-**Use of AI** — Claude was used as a reviewer aid, not as a code generator.
+**Use of AI** — Claude was used as a code reviewer and to help understand Docker and how it works, not as a code generator.
